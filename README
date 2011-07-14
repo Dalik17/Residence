@@ -1,0 +1,60 @@
+README
+--------
+
+Residence plugin by bekvon.
+
+MAIN
+--------
+
+Residence - Self Serve Area Protection System
+
+Residence is different from most protection plugins in that it aims for the users to be able to protect their own homes without having to bother the admin to do it. Residence has support for a variety of different protection types including preventing movement through areas, all of which can be configured by the land owner, and limited by the admin.
+
+FEATURES
+--------
+
+- Allows players to define protected areas for themselves. 
+- Individual permissions for each protected area. Land owner can give / deny permissions globally or to other specific         players. 
+- Different permissions per land include: move, build, use, pvp, fire, teleport, monsters spawn, damage prevention 
+- Support for group permissions on protections. 
+- Multi-World support. 
+- Teleport system to allow users to teleport to residences. 
+- Collision detection system to prevent residences from overlapping. 
+- Limits to protected size can be set up by the admin. 
+- Limits to number of protected areas per player can be set. 
+- Two ways to select land including using the select command, or using a item to select 2 points. 
+- Messages when you enter / leave a residence. (customizable) 
+- Land "leasing" system which requires users to renew the lease on their protection every X number of days or loose the protection. (off by default, see config file) 
+- Recursive Sub-zoning. Create zones within zones, and then zones within those zones... 
+- TONS of configuration for admins. Customize every single flag that players can or cannot use in the config file, based on their permissions group. 
+- (Optional) IConomy support, can set up cost per X number of blocks protected. 
+- (Optional) Permissions support. 
+- In-game help / commands descriptions 
+
+LINKS
+--------
+
+Wiki: http://residencebukkitmod.wikispaces.com/
+Developer API: http://residencebukkitmod.wikispaces.com/Developer+API
+
+RELEASE VERSION
+--------
+
+V2.3 released 4th July.
+
+DOWNLOAD
+--------
+
+Recommended Build: http://dl.dropbox.com/u/13748975/Residence/latest/Residence.zip
+Developer Build -
+- Latest Snapshot: https://github.com/bekvon/Residence/raw/master/dist/Residence.jar
+- Latest Config File: https://github.com/bekvon/Residence/raw/master/src/config.yml
+
+DONATORS
+--------
+
+Daniel Few (Wiki)
+Linaks (Residence Logo)
+SirHedgehog (Code)
+GSValore (Code)
+Samkio (Wiki Video)
